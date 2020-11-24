@@ -1,0 +1,8 @@
+lastUpgrade=00953
+proj.pluginVersion=0.9.53
+proj.AppId=595842295903
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e595842295903%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Rise+Up+--%3e%0d%0a++%3cstring+name%3d%22achievement_rise_up%22+translatable%3d%22false%22%3eCgkI39Df16sREAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Rise+Rise%21%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_rise_rise%22+translatable%3d%22false%22%3eCgkI39Df16sREAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Rise+and+Shine+--%3e%0d%0a++%3cstring+name%3d%22achievement_rise_and_shine%22+translatable%3d%22false%22%3eCgkI39Df16sREAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Rising+Star+--%3e%0d%0a++%3cstring+name%3d%22achievement_rising_star%22+translatable%3d%22false%22%3eCgkI39Df16sREAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Leaderboard+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22+translatable%3d%22false%22%3eCgkI39Df16sREAIQAA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
